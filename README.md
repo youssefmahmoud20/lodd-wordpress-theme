@@ -45,4 +45,11 @@ No page builder and no ACF Pro.
 
 ## AI tools I used
 
-I used **Claude Code** 
+I used **Claude Code** (Anthropic) as a coding assistant, connected to Figma through the Figma MCP. I used it for:
+
+- **Reading the design:** pulling exact measurements, colours, fonts and spacing from the Figma file, and exporting the images and icons.
+- **Writing and refactoring code:** speeding up the templates, ACF field setup, CSS and JavaScript, which I then reviewed and adjusted.
+- **Arabic copy:** drafting the translation, which I proofread and edited.
+- **Checking the build:** comparing screenshots and measurements of the site against the Figma frames.
+
+The architecture, the choice of plugins, how content is structured for editors, and the final review and testing were my own decisions. I checked the result in the browser in both languages and on different screen sizes, and asked for changes where it didn't match the design. One example is the divider animation, which I had reworked to loop like the prototype instead of reacting to scroll.
