@@ -19,21 +19,12 @@ No page builder and no ACF Pro.
 
 ## Installation
 
-**The quick way (restore the backup)**
-
 1. Create an empty WordPress site (I used Local, PHP 8.2).
 2. Replace its `wp-content` folder with the one inside `lodd-site-backup.zip`.
 3. Import `database.sql`.
 4. Point the site at your own URL. The backup was made on my local machine, so run `wp search-replace 'http://gtech.local' 'http://your-site-url'`.
-5. Log in and you're done.
-
-**From scratch (theme only)**
-
-1. Upload `lodd-theme.zip` under Appearance → Themes and activate it.
-2. Install and activate ACF and Polylang.
-3. Install the Arabic language pack: `wp language core install ar`.
-4. Run `wp eval-file tools/seed.php`. This sets up both languages and creates the homepage content, images and menus for you.
-5. Make sure Settings → Permalinks is set to "Post name".
+5. Go to Settings → Permalinks and click Save, so the `/ar/` URLs work.
+6. Log in and you're done.
 
 ## Editing content
 
