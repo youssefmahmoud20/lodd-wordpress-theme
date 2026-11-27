@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LODD 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: lodd\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
+
+#: 404.php:8
+msgid "Page not found"
+msgstr "الصفحة غير موجودة"
+
+#: 404.php:9
+msgid "The page you are looking for does not exist or has been moved."
+msgstr "الصفحة التي تبحث عنها غير موجودة أو تم نقلها."
+
+#: 404.php:14
+msgid "Back to homepage"
+msgstr "العودة إلى الصفحة الرئيسية"
+
+#: footer.php:7
+msgid "YouTube"
+msgstr "يوتيوب"
+
+#: footer.php:8
+msgid "X (Twitter)"
+msgstr "إكس (تويتر)"
+
+#: footer.php:9
+msgid "LinkedIn"
+msgstr "لينكدإن"
+
+#: footer.php:23 inc/acf-fields.php:230 inc/acf-fields.php:233
+msgid "Footer"
+msgstr "تذييل الموقع"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "انتقل إلى المحتوى"
+
+#: header.php:36 inc/enqueue.php:44
+msgid "Open menu"
+msgstr "فتح القائمة"
+
+#: header.php:43
+msgid "Primary"
+msgstr "التنقل الرئيسي"
+
+#: inc/acf-fields.php:90 inc/acf-fields.php:93
+msgid "Header"
+msgstr "الترويسة"
+
+#: inc/acf-fields.php:95
+msgid "Logo (light)"
+msgstr "الشعار (فاتح)"
+
+#: inc/acf-fields.php:96
+msgid "Call to action"
+msgstr "زر الدعوة إلى الإجراء"
+
+#: inc/acf-fields.php:100 inc/acf-fields.php:103
+msgid "Hero"
+msgstr "القسم الرئيسي"
+
+#: inc/acf-fields.php:105 inc/acf-fields.php:138 inc/acf-fields.php:149 inc/acf-fields.php:167 inc/acf-fields.php:178 inc/acf-fields.php:195 inc/acf-fields.php:224
+msgid "Title"
+msgstr "العنوان"
+
+#: inc/acf-fields.php:110
+msgid "Background video (MP4)"
+msgstr "فيديو الخلفية (MP4)"
+
+#: inc/acf-fields.php:116
+msgid "Poster image"
+msgstr "صورة الغلاف"
+
+#: inc/acf-fields.php:116
+msgid "Shown while the video loads and for visitors who prefer reduced motion."
+msgstr "تظهر أثناء تحميل الفيديو وللزوار الذين يفضّلون تقليل الحركة."
+
+#: inc/acf-fields.php:120 inc/acf-fields.php:123
+msgid "Introduction"
+msgstr "المقدمة"
+
+#: inc/acf-fields.php:125
+msgid "Heading"
+msgstr "العنوان الرئيسي"
+
+#: inc/acf-fields.php:126
+msgid "Lead paragraph"
+msgstr "الفقرة الافتتاحية"
+
+#: inc/acf-fields.php:127
+msgid "Body"
+msgstr "النص"
+
+#: inc/acf-fields.php:131 inc/acf-fields.php:134
+msgid "About"
+msgstr "من نحن"
+
+#: inc/acf-fields.php:136 inc/acf-fields.php:223
+msgid "Background image"
+msgstr "صورة الخلفية"
+
+#: inc/acf-fields.php:137
+msgid "Eyebrow"
+msgstr "العنوان التمهيدي"
+
+#: inc/acf-fields.php:139 inc/acf-fields.php:168 inc/acf-fields.php:213 inc/acf-fields.php:225
+msgid "Text"
+msgstr "النص"
+
+#: inc/acf-fields.php:140 inc/acf-fields.php:197 inc/acf-fields.php:214 inc/acf-fields.php:226 inc/acf-fields.php:281
+msgid "Button"
+msgstr "الزر"
+
+#: inc/acf-fields.php:144 inc/acf-fields.php:147 inc/post-types.php:8
+msgid "Solutions"
+msgstr "الحلول"
+
+#: inc/acf-fields.php:150 inc/acf-fields.php:179 inc/acf-fields.php:196
+msgid "Intro text"
+msgstr "النص التمهيدي"
+
+#: inc/acf-fields.php:151
+msgid "Background illustration"
+msgstr "الرسم التوضيحي للخلفية"
+
+#: inc/acf-fields.php:156
+msgid "Solution cards"
+msgstr "بطاقات الحلول"
+
+#: inc/acf-fields.php:157
+msgid "Cards are managed under Solutions in the admin menu. Use the Order attribute to sort them."
+msgstr "تُدار البطاقات من قسم الحلول في قائمة الإدارة. استخدم خاصية الترتيب لفرزها."
+
+#: inc/acf-fields.php:162 inc/acf-fields.php:165
+msgid "Safety & Privacy"
+msgstr "السلامة والخصوصية"
+
+#: inc/acf-fields.php:169
+msgid "Decorative pattern"
+msgstr "النقش الزخرفي"
+
+#: inc/acf-fields.php:173 inc/acf-fields.php:176 inc/post-types.php:13
+msgid "Technologies"
+msgstr "التقنيات"
+
+#: inc/acf-fields.php:184
+msgid "Technology panels"
+msgstr "ألواح التقنيات"
+
+#: inc/acf-fields.php:185
+msgid "Panels are managed under Technologies in the admin menu. The first panel opens by default."
+msgstr "تُدار الألواح من قسم التقنيات في قائمة الإدارة. يُفتح اللوح الأول افتراضيًا."
+
+#: inc/acf-fields.php:190 inc/acf-fields.php:193 inc/post-types.php:18 template-parts/sections/sectors.php:28
+msgid "Sectors"
+msgstr "القطاعات"
+
+#: inc/acf-fields.php:202
+msgid "Sector cards"
+msgstr "بطاقات القطاعات"
+
+#: inc/acf-fields.php:203
+msgid "Slides are managed under Sectors in the admin menu."
+msgstr "تُدار الشرائح من قسم القطاعات في قائمة الإدارة."
+
+#: inc/acf-fields.php:208 inc/acf-fields.php:211
+msgid "News banner"
+msgstr "شريط الأخبار"
+
+#: inc/acf-fields.php:218 inc/acf-fields.php:221
+msgid "Careers"
+msgstr "الوظائف"
+
+#: inc/acf-fields.php:235
+msgid "Logo (colour)"
+msgstr "الشعار (ملوّن)"
+
+#: inc/acf-fields.php:236
+msgid "Copyright"
+msgstr "حقوق النشر"
+
+#: inc/acf-fields.php:237
+msgid "Terms link"
+msgstr "رابط شروط الاستخدام"
+
+#: inc/acf-fields.php:238
+msgid "Privacy link"
+msgstr "رابط سياسة الخصوصية"
+
+#: inc/acf-fields.php:239
+msgid "YouTube URL"
+msgstr "رابط يوتيوب"
+
+#: inc/acf-fields.php:240
+msgid "X (Twitter) URL"
+msgstr "رابط إكس (تويتر)"
+
+#: inc/acf-fields.php:241
+msgid "LinkedIn URL"
+msgstr "رابط لينكدإن"
+
+#: inc/acf-fields.php:255
+msgid "Homepage content"
+msgstr "محتوى الصفحة الرئيسية"
+
+#: inc/acf-fields.php:277
+msgid "Solution details"
+msgstr "تفاصيل الحل"
+
+#: inc/acf-fields.php:279 inc/acf-fields.php:292
+msgid "Icon"
+msgstr "الأيقونة"
+
+#: inc/acf-fields.php:280 inc/acf-fields.php:293 inc/acf-fields.php:306
+msgid "Description"
+msgstr "الوصف"
+
+#: inc/acf-fields.php:290
+msgid "Technology details"
+msgstr "تفاصيل التقنية"
+
+#: inc/acf-fields.php:294 inc/acf-fields.php:305
+msgid "Image"
+msgstr "الصورة"
+
+#: inc/acf-fields.php:303
+msgid "Sector details"
+msgstr "تفاصيل القطاع"
+
+#: inc/acf-fields.php:307
+msgid "Link"
+msgstr "الرابط"
+
+#: inc/enqueue.php:42
+msgid "Play background video"
+msgstr "تشغيل فيديو الخلفية"
+
+#: inc/enqueue.php:43 template-parts/sections/hero.php:26
+msgid "Pause background video"
+msgstr "إيقاف فيديو الخلفية مؤقتًا"
+
+#: inc/enqueue.php:45
+msgid "Close menu"
+msgstr "إغلاق القائمة"
+
+#: inc/helpers.php:51
+msgid "Package"
+msgstr "طرد"
+
+#: inc/helpers.php:52
+msgid "Quick reorder"
+msgstr "إعادة طلب سريعة"
+
+#: inc/helpers.php:53
+msgid "Antenna"
+msgstr "هوائي"
+
+#: inc/helpers.php:54
+msgid "Directions"
+msgstr "اتجاهات"
+
+#: inc/helpers.php:55
+msgid "Shield check"
+msgstr "درع التحقق"
+
+#: inc/helpers.php:56
+msgid "Conveyor belt"
+msgstr "سير ناقل"
+
+#: inc/i18n.php:41
+msgid "Language"
+msgstr "اللغة"
+
+#: inc/post-types.php:9
+msgid "Solution"
+msgstr "حل"
+
+#: inc/post-types.php:14
+msgid "Technology"
+msgstr "تقنية"
+
+#: inc/post-types.php:19
+msgid "Sector"
+msgstr "قطاع"
+
+#: inc/post-types.php:36
+msgid "Add New %s"
+msgstr "إضافة %s جديد"
+
+#: inc/post-types.php:37
+msgid "Edit %s"
+msgstr "تحرير %s"
+
+#: inc/post-types.php:58
+msgid "Order"
+msgstr "الترتيب"
+
+#: inc/setup.php:27
+msgid "Primary Menu"
+msgstr "القائمة الرئيسية"
+
+#: inc/setup.php:28
+msgid "Footer Menu"
+msgstr "قائمة التذييل"
+
+#: index.php:20
+msgid "Nothing found"
+msgstr "لم يتم العثور على نتائج"
+
+#: index.php:21
+msgid "The content you are looking for is not available yet."
+msgstr "المحتوى الذي تبحث عنه غير متاح حاليًا."
+
+#: template-parts/sections/sectors.php:59
+msgid "Previous sector"
+msgstr "القطاع السابق"
+
+#: template-parts/sections/sectors.php:60
+msgid "Next sector"
+msgstr "القطاع التالي"
+

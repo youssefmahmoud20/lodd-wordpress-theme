@@ -1,0 +1,325 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LODD 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: lodd\n"
+
+#: 404.php:8
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:9
+msgid "The page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: 404.php:14
+msgid "Back to homepage"
+msgstr ""
+
+#: footer.php:7
+msgid "YouTube"
+msgstr ""
+
+#: footer.php:8
+msgid "X (Twitter)"
+msgstr ""
+
+#: footer.php:9
+msgid "LinkedIn"
+msgstr ""
+
+#: footer.php:23 inc/acf-fields.php:230 inc/acf-fields.php:233
+msgid "Footer"
+msgstr ""
+
+#: header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:36 inc/enqueue.php:44
+msgid "Open menu"
+msgstr ""
+
+#: header.php:43
+msgid "Primary"
+msgstr ""
+
+#: inc/acf-fields.php:90 inc/acf-fields.php:93
+msgid "Header"
+msgstr ""
+
+#: inc/acf-fields.php:95
+msgid "Logo (light)"
+msgstr ""
+
+#: inc/acf-fields.php:96
+msgid "Call to action"
+msgstr ""
+
+#: inc/acf-fields.php:100 inc/acf-fields.php:103
+msgid "Hero"
+msgstr ""
+
+#: inc/acf-fields.php:105 inc/acf-fields.php:138 inc/acf-fields.php:149 inc/acf-fields.php:167 inc/acf-fields.php:178 inc/acf-fields.php:195 inc/acf-fields.php:224
+msgid "Title"
+msgstr ""
+
+#: inc/acf-fields.php:110
+msgid "Background video (MP4)"
+msgstr ""
+
+#: inc/acf-fields.php:116
+msgid "Poster image"
+msgstr ""
+
+#: inc/acf-fields.php:116
+msgid "Shown while the video loads and for visitors who prefer reduced motion."
+msgstr ""
+
+#: inc/acf-fields.php:120 inc/acf-fields.php:123
+msgid "Introduction"
+msgstr ""
+
+#: inc/acf-fields.php:125
+msgid "Heading"
+msgstr ""
+
+#: inc/acf-fields.php:126
+msgid "Lead paragraph"
+msgstr ""
+
+#: inc/acf-fields.php:127
+msgid "Body"
+msgstr ""
+
+#: inc/acf-fields.php:131 inc/acf-fields.php:134
+msgid "About"
+msgstr ""
+
+#: inc/acf-fields.php:136 inc/acf-fields.php:223
+msgid "Background image"
+msgstr ""
+
+#: inc/acf-fields.php:137
+msgid "Eyebrow"
+msgstr ""
+
+#: inc/acf-fields.php:139 inc/acf-fields.php:168 inc/acf-fields.php:213 inc/acf-fields.php:225
+msgid "Text"
+msgstr ""
+
+#: inc/acf-fields.php:140 inc/acf-fields.php:197 inc/acf-fields.php:214 inc/acf-fields.php:226 inc/acf-fields.php:281
+msgid "Button"
+msgstr ""
+
+#: inc/acf-fields.php:144 inc/acf-fields.php:147 inc/post-types.php:8
+msgid "Solutions"
+msgstr ""
+
+#: inc/acf-fields.php:150 inc/acf-fields.php:179 inc/acf-fields.php:196
+msgid "Intro text"
+msgstr ""
+
+#: inc/acf-fields.php:151
+msgid "Background illustration"
+msgstr ""
+
+#: inc/acf-fields.php:156
+msgid "Solution cards"
+msgstr ""
+
+#: inc/acf-fields.php:157
+msgid "Cards are managed under Solutions in the admin menu. Use the Order attribute to sort them."
+msgstr ""
+
+#: inc/acf-fields.php:162 inc/acf-fields.php:165
+msgid "Safety & Privacy"
+msgstr ""
+
+#: inc/acf-fields.php:169
+msgid "Decorative pattern"
+msgstr ""
+
+#: inc/acf-fields.php:173 inc/acf-fields.php:176 inc/post-types.php:13
+msgid "Technologies"
+msgstr ""
+
+#: inc/acf-fields.php:184
+msgid "Technology panels"
+msgstr ""
+
+#: inc/acf-fields.php:185
+msgid "Panels are managed under Technologies in the admin menu. The first panel opens by default."
+msgstr ""
+
+#: inc/acf-fields.php:190 inc/acf-fields.php:193 inc/post-types.php:18 template-parts/sections/sectors.php:28
+msgid "Sectors"
+msgstr ""
+
+#: inc/acf-fields.php:202
+msgid "Sector cards"
+msgstr ""
+
+#: inc/acf-fields.php:203
+msgid "Slides are managed under Sectors in the admin menu."
+msgstr ""
+
+#: inc/acf-fields.php:208 inc/acf-fields.php:211
+msgid "News banner"
+msgstr ""
+
+#: inc/acf-fields.php:218 inc/acf-fields.php:221
+msgid "Careers"
+msgstr ""
+
+#: inc/acf-fields.php:235
+msgid "Logo (colour)"
+msgstr ""
+
+#: inc/acf-fields.php:236
+msgid "Copyright"
+msgstr ""
+
+#: inc/acf-fields.php:237
+msgid "Terms link"
+msgstr ""
+
+#: inc/acf-fields.php:238
+msgid "Privacy link"
+msgstr ""
+
+#: inc/acf-fields.php:239
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/acf-fields.php:240
+msgid "X (Twitter) URL"
+msgstr ""
+
+#: inc/acf-fields.php:241
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/acf-fields.php:255
+msgid "Homepage content"
+msgstr ""
+
+#: inc/acf-fields.php:277
+msgid "Solution details"
+msgstr ""
+
+#: inc/acf-fields.php:279 inc/acf-fields.php:292
+msgid "Icon"
+msgstr ""
+
+#: inc/acf-fields.php:280 inc/acf-fields.php:293 inc/acf-fields.php:306
+msgid "Description"
+msgstr ""
+
+#: inc/acf-fields.php:290
+msgid "Technology details"
+msgstr ""
+
+#: inc/acf-fields.php:294 inc/acf-fields.php:305
+msgid "Image"
+msgstr ""
+
+#: inc/acf-fields.php:303
+msgid "Sector details"
+msgstr ""
+
+#: inc/acf-fields.php:307
+msgid "Link"
+msgstr ""
+
+#: inc/enqueue.php:42
+msgid "Play background video"
+msgstr ""
+
+#: inc/enqueue.php:43 template-parts/sections/hero.php:26
+msgid "Pause background video"
+msgstr ""
+
+#: inc/enqueue.php:45
+msgid "Close menu"
+msgstr ""
+
+#: inc/helpers.php:51
+msgid "Package"
+msgstr ""
+
+#: inc/helpers.php:52
+msgid "Quick reorder"
+msgstr ""
+
+#: inc/helpers.php:53
+msgid "Antenna"
+msgstr ""
+
+#: inc/helpers.php:54
+msgid "Directions"
+msgstr ""
+
+#: inc/helpers.php:55
+msgid "Shield check"
+msgstr ""
+
+#: inc/helpers.php:56
+msgid "Conveyor belt"
+msgstr ""
+
+#: inc/i18n.php:41
+msgid "Language"
+msgstr ""
+
+#: inc/post-types.php:9
+msgid "Solution"
+msgstr ""
+
+#: inc/post-types.php:14
+msgid "Technology"
+msgstr ""
+
+#: inc/post-types.php:19
+msgid "Sector"
+msgstr ""
+
+#: inc/post-types.php:36
+msgid "Add New %s"
+msgstr ""
+
+#: inc/post-types.php:37
+msgid "Edit %s"
+msgstr ""
+
+#: inc/post-types.php:58
+msgid "Order"
+msgstr ""
+
+#: inc/setup.php:27
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/setup.php:28
+msgid "Footer Menu"
+msgstr ""
+
+#: index.php:20
+msgid "Nothing found"
+msgstr ""
+
+#: index.php:21
+msgid "The content you are looking for is not available yet."
+msgstr ""
+
+#: template-parts/sections/sectors.php:59
+msgid "Previous sector"
+msgstr ""
+
+#: template-parts/sections/sectors.php:60
+msgid "Next sector"
+msgstr ""
+
